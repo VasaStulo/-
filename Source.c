@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
-
+//metoo
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
